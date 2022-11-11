@@ -1,0 +1,5 @@
+1 Instalando o NPX no cmd
+npx create-react-app organo
+
+2 Fazer aplicação rodar 
+ npm start 
